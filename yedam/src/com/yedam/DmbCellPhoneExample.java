@@ -21,7 +21,7 @@ class CellPhone {
 }
 class DmbCellPhone extends CellPhone {
 	int channel;
-	Dmb 
+	Dmb hjkjkl
 	
 	void turnOnDmb()
 }
